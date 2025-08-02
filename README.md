@@ -7,6 +7,8 @@ A ChatGPT-like web interface for interacting with an AI agent that can:
 - Analyze Financial Trasnaction Data
 - Get human input when needed
 
+![SQL Agentic Chat Interface](Screenshot%202025-08-02%20at%203.33.07%20PM.png)
+
 ## Setup
 
 ### Option 1: Automated Setup (Recommended)
